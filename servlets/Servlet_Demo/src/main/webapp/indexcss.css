@@ -1,0 +1,25 @@
+
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+.form{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color: lightgreen;
+	width:50vh;
+	height:50vh;
+	color:black;
+	margin-top: 150px;
+}
+body{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	background-color: lightblue;
+}
+.form article form table{
+	line-height: 50px;
+}
